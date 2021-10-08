@@ -13,7 +13,7 @@ PKG_RELEASE:=
 
 PKG_SOURCE_URL:=https://github.com/vschagen/mtk-eip93.git
 PKG_SOURCE_PROTO:=git
-PKG_SOURCE_VERSION:=bb5fd1c88a8a74de06b70c281bceeb14d0d960ef
+PKG_SOURCE_VERSION:=null
 PKG_MIRROR_HASH:=skip
 
 MAKE_PATH:=src
